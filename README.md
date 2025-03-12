@@ -162,6 +162,13 @@ void loop() {
 - 如有任何问题或需要帮助，请通过 [10696531183@qq.com](mailto:10696531183@qq.com) 联系开发者。
 ![FreakStudio_Contact](extras/FreakStudio_Contact.png)
 
+## 许可协议
+
+本项目采用 **[知识共享署名-非商业性使用 4.0 国际版 (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/)** 许可协议。
+
+## 版本记录
+* v1.0.0到v1.0.1版本：初始化该库，对说明文件进行小修改。
+
 # SerialServo-Expansion-Board-(FreakStudio)-Example-Program-Arduino-Version
 
 This example program demonstrates how to control the Serial Servo Expansion Board (FreakStudio) using Arduino. Through serial communication, users can control multiple servos' angles, speeds, and other parameters, enabling efficient and flexible servo control. The program uses serial communication to exchange data with the servos, providing complete control commands and feedback parsing functionality.
@@ -318,3 +325,11 @@ making it suitable for projects requiring multiple servo control.
 
 - For any inquiries or assistance, feel free to contact the developer at [10696531183@qq.com](mailto:10696531183@qq.com).
 ![FreakStudio_Contact](extras/FreakStudio_Contact.png)
+
+## License
+
+This project is licensed under the **[Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/)**.
+
+## Changelog
+
+* v1.0.0 to v1.0.1: Initialized the library and made minor modifications to the documentation files.
